@@ -13,6 +13,7 @@ code {
     monospace;
 }
 
+.clickable,
 .page-item,
 .list-group-item {
   cursor: pointer;
